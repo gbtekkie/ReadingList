@@ -39,7 +39,7 @@ News
 * [GigaOM - Tech News, Analysis and Trends] (http://www.gigaom.com/) | [RSS] (http://www.gigaom.com/wp-rssfeed.php)
 * [Slashdot] (http://slashdot.org) | [RSS] (http://rss.slashdot.org/Slashdot/slashdot)
 * [The Next Web] (http://thenextweb.com/) | [RSS] (http://feeds2.feedburner.com/thenextweb)
-* [Hacker News] (http://news.ycombinator.com/news) | [RSS\ (http://news.ycombinator.com/rss)
+* [Hacker News] (http://news.ycombinator.com/news) | [RSS] (http://news.ycombinator.com/rss)
 * [Techcrunch] (http://techcrunch.com/) | [RSS] (http://techcrunch.com/rssfeeds/)
 * [Ars Technica] (http://arstechnica.com/) | [RSS] (http://feeds.arstechnica.com/arstechnica/everything)
 * [ReadWriteWeb] (http://www.readwriteweb.com) | [RSS] (http://www.readwriteweb.com/rss.xml)
