@@ -7,3 +7,10 @@ Manuals and Quick References
     
 * [MySQL] ()
     The same trick applies to quicksearching the manual. Just pick your favorite keyword and give it a try, like in this example [dev.mysql.com/datediff] (http://dev.mysql.com/datediff)
+    
+Frameworks
+----------
+
+* [Zend] (http://framework.zend.com/)
+* [Symfony2] (http://symfony.com/)
+* [Kohana] (http://kohanaframework.org/)
