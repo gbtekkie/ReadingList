@@ -1,3 +1,5 @@
+LAMP developer's handy reference.
+
 Manuals and Quick References
 ----------------------------
 
@@ -11,6 +13,18 @@ Manuals and Quick References
 Frameworks
 ----------
 
-* [Zend] (http://framework.zend.com/) [Docs] (http://framework.zend.com/docs/overview)
-* [Symfony2] (http://symfony.com/) [Docs] (http://symfony.com/doc/)
-* [Kohana] (http://kohanaframework.org/) [Docs] (http://kohanaframework.org/documentation)
+* [Zend] (http://framework.zend.com/) | [Docs] (http://framework.zend.com/docs/overview) | [@zfChannel] (http://twitter.com/zfChannel)
+* [Symfony2] (http://symfony.com/) | [Docs] (http://symfony.com/doc/) | [@symfony2] (http://twitter.com/symfony2)
+* [Kohana] (http://kohanaframework.org/) | [Docs] (http://kohanaframework.org/documentation) | [@kohanaphp] (http://twitter.com/kohanaphp)
+* [CodeIgniter] (http://codeigniter.com/) | [Docs] (http://codeigniter.com/user_guide/) | [@CodeIgniter] (http://twitter.com/CodeIgniter)
+
+UX
+--
+
+* [UXmatters] (http://www.uxmatters.com/) | [RSS] (http://www.uxmatters.com/index.xml)
+* [UXMovement] (http://uxmovement.com/) | [RSS] (http://feeds.feedburner.com/uxmovement)
+
+Q&A
+---
+
+* [What is semantic versioning?] (http://semver.org/)
