@@ -21,13 +21,27 @@ Frameworks
 Frontend
 --------
 
-* [A List Apart] (http://www.alistapart.com) | [RSS] (http://www.alistapart.com/rss.xml)
+* [A List Apart] (http://www.alistapart.com) | [RSS] (http://www.alistapart.com/site/rss)
 
 UX
 --
 
 * [UXmatters] (http://www.uxmatters.com/) | [RSS] (http://www.uxmatters.com/index.xml)
 * [UXMovement] (http://uxmovement.com/) | [RSS] (http://feeds.feedburner.com/uxmovement)
+
+Marketing
+---------
+
+* [Chief Marketing Technologist] (http://www.chiefmartec.com/) | [RSS] (http://www.chiefmartec.com/atom.xml)
+
+News
+----
+* [GigaOM - Tech News, Analysis and Trends] (http://www.gigaom.com/) | [RSS] (http://www.gigaom.com/wp-rssfeed.php)
+* [Slashdot] (http://slashdot.org) | [RSS] (http://rss.slashdot.org/Slashdot/slashdot)
+* [The Next Web] (http://thenextweb.com/) | [RSS] (http://feeds2.feedburner.com/thenextweb)
+* [Techcrunch] (http://techcrunch.com/) | [RSS] (http://techcrunch.com/rssfeeds/)
+* [Ars Technica] (http://arstechnica.com/) | [RSS] (http://feeds.arstechnica.com/arstechnica/everything)
+* [ReadWriteWeb] (http://www.readwriteweb.com) | [RSS] (http://www.readwriteweb.com/rss.xml)
 
 Q&A
 ---
