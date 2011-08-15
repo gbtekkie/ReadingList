@@ -18,6 +18,11 @@ Frameworks
 * [Kohana] (http://kohanaframework.org/) | [Docs] (http://kohanaframework.org/documentation) | [@kohanaphp] (http://twitter.com/kohanaphp)
 * [CodeIgniter] (http://codeigniter.com/) | [Docs] (http://codeigniter.com/user_guide/) | [@CodeIgniter] (http://twitter.com/CodeIgniter)
 
+Frontend
+--------
+
+* [A List Apart] (http://www.alistapart.com) | [RSS] (http://www.alistapart.com/rss.xml)
+
 UX
 --
 
